@@ -72,13 +72,13 @@ streamlit run app.py
 
 The application follows a three-stage RAG workflow:
 
-Contextualization
+Contextualization:-
 A history-aware retriever takes the latest user query along with previous chat messages and converts it into a standalone question.
 
-Retrieval
+Retrieval:-
 The standalone query is searched against the ChromaDB vector store to fetch the most relevant document chunks.
 
-Response Generation
+Response Generation:-
 The retrieved chunks are passed into the final prompt along with chat context so the LLM can generate an accurate, grounded answer.
 
 ### 📂 Use Case
