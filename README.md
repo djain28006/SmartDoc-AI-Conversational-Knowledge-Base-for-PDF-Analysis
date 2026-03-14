@@ -10,9 +10,6 @@
 
 ![SmartDoc AI Preview](photo.png)
 
-> Make sure your screenshot file (`photo.png`) is uploaded to the root of your GitHub repository.  
-> If the file is inside another folder like `assets`, update the path accordingly:
-> `![SmartDoc AI Preview](assets/photo.png)`
 
 ---
 
