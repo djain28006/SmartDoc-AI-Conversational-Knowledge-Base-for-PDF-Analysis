@@ -102,6 +102,6 @@ Danish Jain
 
 Aspiring Python Developer | Machine Learning Enthusiast
 
-💼 LinkedIn: Danish Jain
+💼 LinkedIn: [Danish Jain](https://www.linkedin.com/in/danish-jain-6b9261316/)
 
-📂 GitHub: djain28006
+📂 GitHub: [djain28006](https://github.com/djain28006)
