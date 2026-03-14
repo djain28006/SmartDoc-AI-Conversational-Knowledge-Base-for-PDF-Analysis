@@ -46,12 +46,13 @@
 ```bash
 git clone https://github.com/djain28006/smartdoc-ai.git
 cd smartdoc-ai
+```
 
-
-## 2.Install Dependencies
+### 2.Install Dependencies
 
 ```bash
 pip install -r requirements.txt
+```
 
 ### 3.Set Up Environment Variables
 
@@ -59,11 +60,13 @@ Create a .env file in the project root and add your Groq API key:
 
 ```bash
 GROQ_API_KEY=your_groq_api_key
+```
 
 ### 4.Run the Application
 
 ```bash
 streamlit run app.py
+```
 
 🧠 Technical Architecture
 
